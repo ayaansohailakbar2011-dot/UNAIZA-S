@@ -16,6 +16,7 @@
     <div class="item">
       <h3>Premium Lawn Collection</h3>
       <img width="350" height="400" alt="image" src="https://github.com/user-attachments/assets/a280bcd1-d855-4c75-963b-84f4535294c5" />
+      <p style="color: Green; font-weight: bold;">AVAILABLE</p>
     </div>Soft & breathable fabric for hot weather</li>
     <li>✔ Lightweight and comfortable for daily wear</li>
     <li>✔ High-quality stitching & finishing</li>
